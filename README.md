@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور حياتي في ليلي الطويل
+> قلبي بينادي لك بشوق وليل
+> روحي معاك بتلاقى السبيل
+> حبك في دمي مالوش مثيل
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
