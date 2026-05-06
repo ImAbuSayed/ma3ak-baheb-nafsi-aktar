@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-baheb-nafsi-aktar/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Secure Licensing Rights for Ma3ak Baheb Nafsi Aktar](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
