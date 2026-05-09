@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma3ak Baheb Nafsi Aktar
+
+This log tracks the cryptographic history and versioning for the song **Ma3ak Baheb Nafsi Aktar** (ma3ak-baheb-nafsi-aktar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T16:35:02.475646 | `v1` | `4968025b640827cc391b52bccada614b86a6119e527d318f0ed02782bc897446` | `18d8536263520cc9a383a5be5d096f51d4c9a81d57da1828de7b73499cc68a25` | `2026-05-09_ma3ak-baheb-nafsi-aktar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
